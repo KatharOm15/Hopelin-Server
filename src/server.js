@@ -64,7 +64,7 @@ const MERCHANT_BASE_URL =
 const MERCHANT_STATUS_URL =
   "https://api-preprod.phonepe.com/apis/pg-sandbox/pg/v1/status";
 
-const redirectUrl = "http://localhost:3000/status";
+const redirectUrl = "https://hopelin-server.onrender.com/status";
 
 const successUrl = "http://localhost:3001/dashboard/explore";
 const failureUrl = "http://localhost:3001/payment-failure";
